@@ -1,0 +1,1 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/MasterPage.Master" AutoEventWireup="true" CodeBehind="Master.master.cs" Inherits="Blog.Master" %>
